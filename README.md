@@ -37,12 +37,18 @@ And we're just getting started, we're hoping that with your support we can bring
 
 ## License ##
 
-This project is distributed under the "MIT NON-AI" license.
+This project is distributed under a modified version of the "MIT NON-AI" license, whose terms state:
 * You're free to use, modify, and redistribute this project as you wish.
 * You are NOT allowed to use it to train AI.
 * Credit is appreciated but not mandatory.
 
-For external libraries, refer to their corresponding license.
+With the following restrictions being added in order to protect the work of the creatives trusting us with our library:
+* You are NOT allowed to use this for projects that make use of AI during execution (eg. text generation APIs).
+* You are NOT allowed to use this for projects that contain AI generated assets with little to no human intervention (eg. mesh/texture generation APIs).
+* You ARE allowed to use AI tools during development to boost your productivity (eg. debugging, story writing and/or code assistance).
+* This license applies solely to this project; external libraries maintain their own separate licenses which must be complied with separately.
+* Modifications to this license cannot remove the AI-related restrictions.
+* I reserve the right to update the license terms to address potential circumventions of the AI-related restrictions, with safeguards in place to prevent abuse of this condition.
 
 ## Attribution ##
 
