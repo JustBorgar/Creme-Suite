@@ -19,7 +19,7 @@ Does that sound good enough for you? Check the project's home page for more info
 
 ## License ##
 
-This project is distributed under an extended version of the "MIT NON-AI" license, below is a resume of it's terms.
+This project is distributed under an extended version of the [MIT NON-AI license](https://github.com/non-ai-licenses/non-ai-licenses/blob/main/LICENSE), below is a resume of it's terms.
 
 * You're free to use, modify, and redistribute this project as you wish.
 * You are NOT allowed to use it to train AI in any capacity.
