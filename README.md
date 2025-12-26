@@ -5,7 +5,7 @@ The smooth blend of clean, consistent, and scalable open-source magic.
 <br/><br/>
 
 > [!NOTE]  
-> We've moved to codeberg! You can find the new repository here:
+> Créme Suite is now on codeberg! You can find the new repository here:
 > [Créme Suite](https://codeberg.org/JustBorgar/Creme-Suite)
 >
 > This repository will only remain up for archival purposes. Legacy copies
