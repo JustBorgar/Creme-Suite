@@ -5,10 +5,11 @@ The smooth blend of clean, consistent, and scalable open-source magic.
 <br/><br/>
 
 > [!NOTE]  
-> Looks like you arrived early. Créme Suite's website isn't public yet, please give me a couple of days as I iron the first release out.
+> We've moved to codeberg! You can find the new repository here:
+> [Créme Suite](https://codeberg.org/JustBorgar/Creme-Suite)
 >
-> Créme Engine's source code will remain available in the releases section, but will no longer be supported (eventually, the hope is to
-> replace it with a "Créme Suite Sandbox" placefile once feature parity is achieved, which will be posted as a guide in the website).
+> This repository will only remain up for archival purposes. Legacy copies
+> of both CE and SNM can be found in the releases section.
 
 ## Description ##
 
